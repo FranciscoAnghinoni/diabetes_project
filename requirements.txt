@@ -1,0 +1,5 @@
+preswald
+pandas
+numpy
+plotly
+statsmodels
