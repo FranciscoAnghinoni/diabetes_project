@@ -2,7 +2,7 @@
 title = "Diabetes Analysis Dashboard"
 version = "0.1.0"
 port = 8501
-slug = "pima_diabetes"                 # Required: Unique identifier for your project
+slug = "pima-diabetes"                 # Required: Unique identifier for your project
 entrypoint = "hello.py"           # Required: Main script to run when executing preswald run
 
 [branding]
